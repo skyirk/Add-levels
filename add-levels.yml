@@ -1,0 +1,44 @@
+# tools/new_levels.txt 에 맵을 적고 저장(커밋)하면 자동으로 levels.json 에 추가합니다.
+# 형식은 README 의 "맵 자동 추가" 참고. 결과는 tools/last_run.log 에 남습니다.
+name: Add levels
+
+on:
+  push:
+    paths:
+      - "tools/new_levels.txt"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 맵 정보를 포럼에서 읽어 levels.json 에 추가
+        shell: bash
+        run: |
+          touch tools/new_levels.txt
+          python tools/add_levels.py tools/new_levels.txt | tee tools/last_run.log
+
+      - name: 결과 저장
+        shell: bash
+        run: |
+          # 추가된 맵이 없으면 아무것도 커밋하지 않는다 (이유는 위 단계의 실행 로그에서 확인)
+          if git diff --quiet levels.json; then
+            echo "추가된 맵이 없습니다."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # 처리한 입력은 비워서 같은 맵이 다시 처리되지 않게 한다
+          : > tools/new_levels.txt
+          git add levels.json tools/new_levels.txt tools/last_run.log
+          git commit -m "Add levels from new_levels.txt"
+          git push origin HEAD
