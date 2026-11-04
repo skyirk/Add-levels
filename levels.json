@@ -600,5 +600,23 @@
     "desc": "채보: Nephrolepis, YOON 외 1명.",
     "tufId": 7684,
     "videoUrl": ""
+  },
+  {
+    "id": "tuf-8974",
+    "name": "The Yandere&#39;s Puppet Show (renewal &amp; not normal hold)",
+    "creator": "acid-Notation",
+    "pgu": "U14",
+    "legacy": "21.3",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: 한가지 on The Universal Forums.",
+    "tufId": 8974,
+    "videoUrl": ""
   }
 ]
