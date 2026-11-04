@@ -834,6 +834,62 @@
     "videoUrl": ""
   },
   {
+    "id": "tuf-16938",
+    "name": "Black Knife (nerdexample remix) SHADOW MANTLE",
+    "creator": "Toby Fox &amp; Loco",
+    "pgu": "U16",
+    "legacy": "21.3+",
+    "keys": 10,
+    "keyLimit": true,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: 한가지, Irin &amp; 1 more on The Universal Forums.",
+    "tufId": 16938,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-109",
+    "name": "We Want To Run",
+    "creator": "Frums",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis, Asansis on The Universal Forums.",
+    "tufId": 109,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1537",
+    "name": "TremENDouS 『TheEND』",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 한가지 on The Universal Forums.",
+    "tufId": 1537,
+    "videoUrl": ""
+  },
+  {
     "id": "tuf-823",
     "name": "《/nttld.:beings》 ~Truth in Uncertainty~",
     "creator": "GTS Sound Team",
@@ -844,11 +900,105 @@
     "bpm": null,
     "patterns": [
       "복합",
-      "질주"
+      "개박"
     ],
     "reference": false,
     "desc": "채보: Nephrolepis on The Universal Forums.",
     "tufId": 823,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-448",
+    "name": "UMBRA, RADIOLOGOS.",
+    "creator": "Frums",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합",
+      "개박",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: SurberHD on The Universal Forums.",
+    "tufId": 448,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-9118",
+    "name": "Echoes of Memoria",
+    "creator": "Ludicin",
+    "pgu": "U14",
+    "legacy": "21.3",
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합",
+      "개박",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Zeyu on The Universal Forums.",
+    "tufId": 9118,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1079",
+    "name": "M1LLI0N PP (unnerfed)",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U10",
+    "legacy": "21.2",
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합",
+      "개박",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis on The Universal Forums.",
+    "tufId": 1079,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-2546",
+    "name": "Bismuth",
+    "creator": "Ludicin",
+    "pgu": "U10",
+    "legacy": "21.2",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: CCNekona, delphine on The Universal Forums.",
+    "tufId": 2546,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1833",
+    "name": "MCCXVI",
+    "creator": "JinoBeats",
+    "pgu": "U10",
+    "legacy": "21.2",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 유한 / Youhan on The Universal Forums.",
+    "tufId": 1833,
     "videoUrl": ""
   }
 ]
