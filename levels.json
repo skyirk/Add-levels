@@ -310,23 +310,6 @@
     "videoUrl": ""
   },
   {
-    "id": "tuf-3569",
-    "name": "Hello (BPM) 2024",
-    "creator": "Camellia (かめりあ)",
-    "pgu": "U14",
-    "legacy": "21.3",
-    "keys": 16,
-    "keyLimit": false,
-    "bpm": null,
-    "patterns": [
-      "체력"
-    ],
-    "reference": false,
-    "desc": "채보: 알파, 응애 외 3명.",
-    "tufId": 3569,
-    "videoUrl": ""
-  },
-  {
     "id": "tuf-10708",
     "name": "Grabinschrift der Götter 「Transcendence」",
     "creator": "ikaruga_nex & 影虎。",
@@ -617,6 +600,95 @@
     "reference": false,
     "desc": "채보: 한가지 on The Universal Forums.",
     "tufId": 8974,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3569",
+    "name": "Hello (BPM) 2024",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U14",
+    "legacy": "21.3",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: 알파, 응애 &amp; 3 more on The Universal Forums.",
+    "tufId": 3569,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3531",
+    "name": "PIONEER PROGRAM",
+    "creator": "II-L",
+    "pgu": "U14",
+    "legacy": "21.3",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: OMCard on The Universal Forums.",
+    "tufId": 3531,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-12250",
+    "name": "CCMJV Original / Auros",
+    "creator": "AisE &amp; Coal &amp; Eraser &amp; KreScent &amp; Lesitia. &amp; Lineyear &amp; OverNote&#39; &amp; Riya &amp; seatrus &amp; zsry &amp; FUT3R &amp; ORTAL &amp; Keyboard &amp; whiteroses",
+    "pgu": "U13",
+    "legacy": "21.3",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: Femboy &amp; 10 more, SomSom &amp; 25 more on The Universal Forums.",
+    "tufId": 12250,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-11688",
+    "name": "MAXIMUM BURST (feat. QURELESS)",
+    "creator": "HyuN",
+    "pgu": "U13",
+    "legacy": "21.3",
+    "keys": 10,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "기믹",
+      "체력"
+    ],
+    "reference": false,
+    "desc": "채보: Sutthe, Sutthe on The Universal Forums.",
+    "tufId": 11688,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-9537",
+    "name": "Elon Trust",
+    "creator": "Extra Terra &amp; Max Brhon",
+    "pgu": "U13",
+    "legacy": "21.3",
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력"
+    ],
+    "reference": false,
+    "desc": "채보: w_yeah on The Universal Forums.",
+    "tufId": 9537,
     "videoUrl": ""
   }
 ]
