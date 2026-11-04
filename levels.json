@@ -690,5 +690,165 @@
     "desc": "채보: w_yeah on The Universal Forums.",
     "tufId": 9537,
     "videoUrl": ""
+  },
+  {
+    "id": "tuf-11564",
+    "name": "Fractal Vertex",
+    "creator": "Aoi &amp; kanemiko &amp; Kyutatsuki",
+    "pgu": "U14",
+    "legacy": "21.3",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: harim on The Universal Forums.",
+    "tufId": 11564,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1059",
+    "name": "MEGALOVANIA (Camellia Remix) (ex)",
+    "creator": "Toby Fox &amp; Camellia (かめりあ)",
+    "pgu": "U12",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력"
+    ],
+    "reference": false,
+    "desc": "채보: 알파, Irin on The Universal Forums.",
+    "tufId": 1059,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-12473",
+    "name": "CosmøgraphY (No Judgement Limit)",
+    "creator": "celtix",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: Fax on The Universal Forums.",
+    "tufId": 12473,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-7696",
+    "name": "Operation: Zenithfall (10K)",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 10,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis on The Universal Forums.",
+    "tufId": 7696,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-6066",
+    "name": "Parallel Universe Shifter",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Nephy, Editor AlriC &amp; 6 more on The Universal Forums.",
+    "tufId": 6066,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-5353",
+    "name": "()",
+    "creator": "seatrus",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 729, Speaker on The Universal Forums.",
+    "tufId": 5353,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-2177",
+    "name": "Parodia Sonatina -Grande- (ex)",
+    "creator": "Ice",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: Irin, yldo &amp; 2 more on The Universal Forums.",
+    "tufId": 2177,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1069",
+    "name": "Hello (BPM) 2023",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis, Irin &amp; 3 more on The Universal Forums.",
+    "tufId": 1069,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-823",
+    "name": "《/nttld.:beings》 ~Truth in Uncertainty~",
+    "creator": "GTS Sound Team",
+    "pgu": "U11",
+    "legacy": "21.2+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "복합",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis on The Universal Forums.",
+    "tufId": 823,
+    "videoUrl": ""
   }
 ]
