@@ -1000,5 +1000,83 @@
     "desc": "채보: 유한 / Youhan on The Universal Forums.",
     "tufId": 1833,
     "videoUrl": ""
+  },
+  {
+    "id": "tuf-17017",
+    "name": "INVERSION",
+    "creator": "tn-shi",
+    "pgu": "U15",
+    "legacy": "21.3+",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: hallunacy on The Universal Forums.",
+    "tufId": 17017,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-12707",
+    "name": "Hello (BPM) 2026",
+    "creator": "Camellia (かめりあ)",
+    "pgu": "U18",
+    "legacy": null,
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "복합",
+      "개박",
+      "체력",
+      "기믹"
+    ],
+    "reference": false,
+    "desc": "채보: 알파, Asansis &amp; 11 more on The Universal Forums.",
+    "tufId": 12707,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-1469",
+    "name": "The Most Durable Electronic Machine Whose Name Is &quot;IDPLMA&quot; Has Been Released By Mechanical Engineers in Washington D.C. (nerfed)",
+    "creator": "Seedbean",
+    "pgu": "U19",
+    "legacy": null,
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 韓狼 &amp; 6 more on The Universal Forums.",
+    "tufId": 1469,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-32",
+    "name": "Fledgling",
+    "creator": "Sot-C",
+    "pgu": "U10",
+    "legacy": "21.2",
+    "keys": 10,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "개박"
+    ],
+    "reference": false,
+    "desc": "채보: BWen, Editor AlriC on The Universal Forums.",
+    "tufId": 32,
+    "videoUrl": ""
   }
 ]
