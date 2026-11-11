@@ -1078,5 +1078,148 @@
     "desc": "채보: BWen, Editor AlriC on The Universal Forums.",
     "tufId": 32,
     "videoUrl": ""
+  },
+  {
+    "id": "tuf-15558",
+    "name": "Encore.",
+    "creator": "打打だいず",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis, Becl_ &amp; 1 more on The Universal Forums.",
+    "tufId": 15558,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-15557",
+    "name": "DEVOTION 〜反影への進撃、恐怖への信撃〜",
+    "creator": "EPC Sound Team",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주"
+    ],
+    "reference": false,
+    "desc": "채보: Ryuha, Farpait &amp; 3 more on The Universal Forums.",
+    "tufId": 15557,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-12380",
+    "name": "Phantigma",
+    "creator": "打打だいず",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력",
+      "동타"
+    ],
+    "reference": false,
+    "desc": "채보: Nephrolepis, Bingsu on The Universal Forums.",
+    "tufId": 12380,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3776",
+    "name": "LΛ8YRИTH",
+    "creator": "AWC Sound Team",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 韓狼 &amp; 7 more, Ocbim &amp; 10 more on The Universal Forums.",
+    "tufId": 3776,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3774",
+    "name": "Serrate (ex)",
+    "creator": "Sydosys",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "개박"
+    ],
+    "reference": false,
+    "desc": "채보: Daccaplores, 韓狼 &amp; 1 more on The Universal Forums.",
+    "tufId": 3774,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-2856",
+    "name": "Icyxis ~True Ending~",
+    "creator": "Raimukun",
+    "pgu": "U9",
+    "legacy": "21.2",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력"
+    ],
+    "reference": false,
+    "desc": "채보: 한가지, 韓狼 &amp; 5 more on The Universal Forums.",
+    "tufId": 2856,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-10419",
+    "name": "SHIRO",
+    "creator": "DJ Raisei",
+    "pgu": "U8",
+    "legacy": "21.1+",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "체력",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "채보: 새제비 &amp; 1 more, Editor AlriC &amp; 7 more on The Universal Forums.",
+    "tufId": 10419,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3763",
+    "name": "Serrate",
+    "creator": "Sydosys",
+    "pgu": "U8",
+    "legacy": "21.1+",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "개박"
+    ],
+    "reference": false,
+    "desc": "채보: Daccaplores, 韓狼 &amp; 1 more on The Universal Forums.",
+    "tufId": 3763,
+    "videoUrl": ""
   }
 ]
