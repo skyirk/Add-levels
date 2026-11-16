@@ -1221,5 +1221,117 @@
     "desc": "채보: Daccaplores, 韓狼 &amp; 1 more on The Universal Forums.",
     "tufId": 3763,
     "videoUrl": ""
+  },
+  {
+    "id": "tuf-12274",
+    "name": "Blossom of Ashes",
+    "creator": "Ludicin",
+    "pgu": "U6",
+    "legacy": "21.1",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 12274,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-10002",
+    "name": "Where Dreams Take Flight",
+    "creator": "黒魔 (Chroma)",
+    "pgu": "U6",
+    "legacy": "21.1",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합",
+      "개박"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 10002,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-8053",
+    "name": "Gears of Fate",
+    "creator": "Laur",
+    "pgu": "U6",
+    "legacy": "21.1",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 8053,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-6299",
+    "name": "ASGORE (zsry Remix)",
+    "creator": "Toby Fox & zsry",
+    "pgu": "U6",
+    "legacy": "21.1",
+    "keys": 17,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "질주",
+      "복합"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 6299,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-3744",
+    "name": "Static Ste//arium",
+    "creator": "Shirai｡",
+    "pgu": "U5",
+    "legacy": "21.1",
+    "keys": 16,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 3744,
+    "videoUrl": ""
+  },
+  {
+    "id": "tuf-12143",
+    "name": "Battle Against A True Hero (N_dog Remix)",
+    "creator": "N_dog & Toby Fox",
+    "pgu": "U5",
+    "legacy": "21.1",
+    "keys": 12,
+    "keyLimit": false,
+    "bpm": null,
+    "patterns": [
+      "체력",
+      "기믹",
+      "질주"
+    ],
+    "reference": false,
+    "desc": "",
+    "tufId": 12143,
+    "videoUrl": ""
   }
 ]
